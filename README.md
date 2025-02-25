@@ -2,7 +2,7 @@
 
 ## Receipt Processor
 
-This is a web service that processes receipts and calculates points based on specified rules. You can test the application either using **unit tests** or **Postman**.
+This is an api service that processes receipts and calculates points based on specified rules. You can test the application either using **unit tests** or **Postman**.
 
 ## Requirements
 
